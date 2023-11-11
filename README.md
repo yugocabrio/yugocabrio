@@ -1,8 +1,7 @@
 ### Hi there 👋
-I’m a freshman in Mechanical Engineering at university. Recently, I’ve been interested in cryptography, especially Zero-knowledge Proof(ZKP).
-The reason is I found the beauty of the mathematical combination of Distributed Key Generation and BLS in Threshold BLS signatures a few years ago. I then continued my studies with a focus on zk-SNARKs.
+I'm a freshman studying Mechanical Engineering at university. Recently, I've developed an interest in cryptography, particularly in Zero-Knowledge Proofs (ZKP). This interest was sparked a few years ago when I appreciated the mathematical elegance of combining Distributed Key Generation with BLS in Threshold BLS signatures. Since then, I've continued my studies with an emphasis on zk-SNARKs.
 
-After I gain some experience in the field of cryptography, I would like to concentrate on robotics at the university. Of course, I want to make synergies between those fields.
+After gaining some experience in cryptography, I aim to focus on robotics at the university. Naturally, I'm keen on creating synergy between these two fields.
 
-My hobby is communicating with international students to learn about their culture and improve my English.
+As a hobby, I enjoy interacting with international students to learn about their cultures and to improve my English skills.
 
